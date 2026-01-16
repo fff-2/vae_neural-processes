@@ -1,6 +1,8 @@
 # VAE & Neural Processes Study
 
 This repository contains implementations of deep generative models including Autoencoders, Variational Autoencoders (VAE), and Neural Processes using PyTorch. The experiments are conducted on MNIST and CelebA datasets.
+- [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114)
+- [Neural Processes](https://arxiv.org/pdf/1807.01622)
 
 ## Project Structure
 
